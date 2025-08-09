@@ -230,7 +230,7 @@ app.get("/", async (req, res) => {
       title: "Welcome to My Beautiful App",
       heading: "Discover Something Amazing On Graphit software",
       subtitle:
-        "A modern, elegant web experience built with Express.js & MySQL for testing Graphit software",
+        "A modern, elegant web experience built with Express.js & MySQL for testing Graphit software for devops",
       stats: statsObj,
       recentProjects: projects,
       roleStats: roleStats,
