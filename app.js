@@ -228,7 +228,7 @@ app.get("/", async (req, res) => {
 
     const pageData = {
       title: "Welcome to My Beautiful App",
-      heading: "Discover Something Amazing",
+      heading: "Discover Something Amazing On Graphit software",
       subtitle:
         "A modern, elegant web experience built with Express.js & MySQL",
       stats: statsObj,
